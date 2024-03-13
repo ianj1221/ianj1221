@@ -3,7 +3,7 @@
 - I currently employ machine learning for:
   - formulation optimization
   - text classification of intellectual property
-  - managing a dashboard of competitor stategy based on published IP
+  - managing a dashboard of competitor strategy based on published IP
 
 - 📫 You can reach me via linkedin: www.linkedin.com/in/ian-jones-7a2b1072
 - 😄 Pronouns: He, him
