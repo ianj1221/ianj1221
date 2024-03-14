@@ -1,5 +1,5 @@
 - Hi, I’m Ian Jones @ianj1221
-- I am a reseachvscientist with 10 years of industry experience
+- I am a reseach scientist with 10 years of industry experience
 - I currently employ machine learning for:
   - formulation optimization
   - text classification of intellectual property
